@@ -1,0 +1,113 @@
+.navbar-brand {
+    color: mediumvioletred !important;
+    font-size: 2rem !important;
+    font-family: cursive;
+}
+
+details {
+    margin-bottom: 5%;
+}
+
+.qaws {
+    height: 100%;
+    border-radius: 10%;
+}
+
+.gtr {
+    text-decoration: none;
+    color: darkolivegreen;
+    font-size: 1.5rem;
+    padding: 0 3%;
+    font-family: cursive;
+}
+
+
+.edc {
+    text-decoration: none;
+    font-family: fantasy;
+    color: dodgerblue;
+}
+
+
+footer {
+    margin-top: 5%;
+}
+
+
+.gtr:hover {
+    color: tan;
+}
+
+#ffg {
+    text-align: center;
+    padding: 5%;
+    background-color: beige;
+
+}
+
+
+
+.contact-image {
+  width: 30%;
+}
+
+.top {
+    text-decoration: none;
+    color: honeydew;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+
+
+
+.top:hover {
+    color: lavenderblush;
+}
+
+
+.weep {
+    border-radius: 30% !important;
+    
+}
+
+
+.nav-link {
+    padding: 0 2rem !important;
+    color: magenta !important;
+}
+
+
+.nav-link:hover {
+    color: plum !important;
+}
+
+
+@media screen and (max-width: 437px ) {
+    .gtr {
+        padding: 0 1%;
+        font-size: 1rem;
+    }
+
+    .float-end {
+        width: 30%;
+    }
+
+    .top {
+        font-size: 1rem;
+    }
+
+
+    #placement {
+        background-position: center !important;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem !important;
+        
+    }
+}
+
+
+
+
+                                                                               
